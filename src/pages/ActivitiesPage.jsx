@@ -27,10 +27,10 @@ const ActivitiesPage = () => {
   }, []);
 
   const documents = [
-    { name: 'Artículo 1', file: 'articulo1.pdf', color: 'from-blue-600 to-blue-700', hoverColor: 'hover:from-blue-500 hover:to-blue-600', textColor: 'text-blue-200', description: 'Investigación sobre extracción de aceites vegetales' },
-    { name: 'Artículo 2', file: 'articulo2.pdf', color: 'from-green-600 to-green-700', hoverColor: 'hover:from-green-500 hover:to-green-600', textColor: 'text-green-200', description: 'Análisis bromatológico del paiche amazónico' },
-    { name: 'Artículo 3', file: 'articulo3.pdf', color: 'from-purple-600 to-purple-700', hoverColor: 'hover:from-purple-500 hover:to-purple-600', textColor: 'text-purple-200', description: 'Características organolépticas y sensoriales' },
-    { name: 'Artículo 4', file: 'articulo4.pdf', color: 'from-orange-600 to-orange-700', hoverColor: 'hover:from-orange-500 hover:to-orange-600', textColor: 'text-orange-200', description: 'Métodos de conservación innovadores' }
+    { name: 'Artículo 1', file: 'articulo 1.pdf', color: 'from-blue-600 to-blue-700', hoverColor: 'hover:from-blue-500 hover:to-blue-600', textColor: 'text-blue-200', description: 'Investigación sobre extracción de aceites vegetales' },
+    { name: 'Artículo 2', file: 'articulo 2.pdf', color: 'from-green-600 to-green-700', hoverColor: 'hover:from-green-500 hover:to-green-600', textColor: 'text-green-200', description: 'Análisis bromatológico del paiche amazónico' },
+    { name: 'Artículo 3', file: 'articulo 3.pdf', color: 'from-purple-600 to-purple-700', hoverColor: 'hover:from-purple-500 hover:to-purple-600', textColor: 'text-purple-200', description: 'Características organolépticas y sensoriales' },
+    { name: 'Artículo 4', file: 'articulo 4.pdf', color: 'from-orange-600 to-orange-700', hoverColor: 'hover:from-orange-500 hover:to-orange-600', textColor: 'text-orange-200', description: 'Métodos de conservación innovadores' }
   ];
 
   const results = [
