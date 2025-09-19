@@ -230,7 +230,7 @@ const HomePage = () => {
             <div className="fade-in">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <img
-                  src="assets/images/descripcion.jpeg"
+                  src="/imagenes/descripcion.jpeg"
                   alt="Paiche Amazónico"
                   className="w-full h-96 object-cover transform hover:scale-105 transition-transform duration-700"
                   onError={(e) => {
