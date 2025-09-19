@@ -307,7 +307,7 @@ const ActivitiesPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {documents.map((doc, index) => (
               <a key={index}
-                href={`documentos/${doc.file}`}
+                href={`/documentos/${doc.file}`}
                 download={doc.file}
                 className={`bg-gradient-to-br ${doc.color} p-6 rounded-2xl shadow-xl hover:shadow-2xl text-center block transition-all duration-300 ${doc.hoverColor} transform hover:scale-105 group`}>
                 <i className={`fas fa-file-pdf text-4xl mb-4  group-hover:scale-110 transition-transform duration-300`}></i>
