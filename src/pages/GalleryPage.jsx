@@ -14,7 +14,10 @@ const GalleryPage = () => {
     { id: 7, src: '/imagenes/galeria3.jpeg', alt: 'Productos terminados' },
     { id: 8, src: '/imagenes/galeria.png', alt: 'Presentación de resultados' },
     { id: 9, src: '/imagenes/conserva.jpeg', alt: 'Investigación de campo' },
-    { id: 10, src: '/imagenes/aceites.jpeg', alt: 'Equipo en acción' }
+    { id: 10, src: '/imagenes/aceites.jpeg', alt: 'Equipo en acción' },
+    { id: 11, src: '/imagenes/beneficios.jpeg', alt: 'Beneficios del Paiche' },
+    { id: 12, src: '/imagenes/pez.jpeg', alt: 'Paiche Amazónico' },
+    
   ];
 
   return (

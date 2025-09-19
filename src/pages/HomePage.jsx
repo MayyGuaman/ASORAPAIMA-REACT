@@ -218,7 +218,7 @@ const HomePage = () => {
         subtitle="Investigación científica del Paiche Amazónico y desarrollo de tecnologías innovadoras para la industria agroalimentaria"
         buttonText="Descubre Más"
         buttonLink="#descripcion"
-        bgImage="/imagenes/pez.jpeg"
+        bgImage=""
         showStats={true}
         showScroll={true}
       />

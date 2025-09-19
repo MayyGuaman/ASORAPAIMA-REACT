@@ -5,7 +5,7 @@ const HeroSection = ({
   subtitle, 
   buttonText = "Descubre Más", 
   buttonLink = "#descripcion", 
-  bgImage = "/imagenes/pez.jpeg",
+  bgImage = "",
   showStats = true,
   showScroll = true 
 }) => {
@@ -24,8 +24,8 @@ const HeroSection = ({
 
   const stats = [
     { number: "6", label: "Investigadores", icon: "fas fa-users" },
-    { number: "2", label: "Universidades", icon: "fas fa-university" },
-    { number: "5+", label: "Publicaciones", icon: "fas fa-file-alt" },
+    { number: "1", label: "Universidades", icon: "fas fa-university" },
+    { number: "3+", label: "Publicaciones", icon: "fas fa-file-alt" },
     { number: "3", label: "Líneas de Investigación", icon: "fas fa-microscope" }
   ];
 
