@@ -5,7 +5,7 @@ const HeroSection = ({
   subtitle, 
   buttonText = "Descubre Más", 
   buttonLink = "#descripcion", 
-  // bgImage = "/imagenes/pez.jpeg",
+  bgImage = "/imagenes/pez.jpeg",
   showStats = true,
   showScroll = true 
 }) => {
