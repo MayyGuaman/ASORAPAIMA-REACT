@@ -218,7 +218,7 @@ const HomePage = () => {
         subtitle="Investigación científica del Paiche Amazónico y desarrollo de tecnologías innovadoras para la industria agroalimentaria"
         buttonText="Descubre Más"
         buttonLink="#descripcion"
-        bgImage="assets/images/pez.jpeg"
+        bgImage="/imagenes/pez.jpeg"
         showStats={true}
         showScroll={true}
       />
@@ -316,7 +316,7 @@ const HomePage = () => {
             <div className="fade-in order-1 lg:order-2">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <img
-                  src="assets/images/beneficios.jpeg"
+                  src="/imagenes/beneficios.jpeg"
                   alt="Beneficios del Paiche"
                   className="w-full h-96 object-cover transform hover:scale-105 transition-transform duration-700"
                   onError={(e) => {
