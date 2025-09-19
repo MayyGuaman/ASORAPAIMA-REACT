@@ -10,7 +10,7 @@ const useIntegrantes = () => {
       {
         id: 'juan-neira',
         name: 'Juan Alejandro Neira Mosquera',
-        institution: 'Universidad de Córdoba (España) | UCO',
+        institution: 'Universidad de las Fuerzas Armadas ESPE',
         department: 'Biociencias y Ciencias Agroalimentarias',
         degree: 'Doctor',
         image: '/imagenes/Dneira.jpg',
@@ -19,7 +19,7 @@ const useIntegrantes = () => {
       {
         id: 'sungey-sanchez',
         name: 'Sungey Naynee Sánchez Llaguno',
-        institution: 'Universidad de Córdoba (España) | UCO',
+        institution: 'Universidad de las Fuerzas Armadas ESPE',
         department: 'Departamento de Bromatología y Tecnología de los Alimentos',
         degree: 'Doctor',
         image: '/imagenes/Dsungey.jpg',
