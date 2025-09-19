@@ -313,7 +313,7 @@ const ActivitiesPage = () => {
                 <i className={`fas fa-file-pdf text-4xl mb-4  group-hover:scale-110 transition-transform duration-300`}></i>
                 <h3 className="text-lg font-semibold mb-2">{doc.name}</h3>
                 <p className={`${doc.textColor} text-sm mb-4`}>{doc.description}</p>
-                <div className="inline-flex items-center text-white bg-white bg-opacity-20 px-3 py-1 rounded-full text-sm">
+                <div className="inline-flex items-center text-black bg-white bg-opacity-20 px-3 py-1 rounded-full text-sm">
                   <i className="fas fa-download text-black "></i>
                   Descargar PDF
                 </div>
