@@ -54,7 +54,7 @@ const ActivitiesPage = () => {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(135deg, rgba(22, 101, 52, 0.8), rgba(21, 94, 117, 0.7)), url('assets/images/research-hero.jpg')`,
+          backgroundImage: `linear-gradient(135deg, rgba(22, 101, 52, 0.8), rgba(21, 94, 117, 0.7))`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
