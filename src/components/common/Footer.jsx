@@ -37,7 +37,6 @@ const Footer = () => {
         {/* Copyright */}
         <div className="mt-6 border-t border-white/10 pt-4 text-center text-gray-400 text-sm">
           <p>© {currentYear} Universidad de las Fuerzas Armadas ESPE - Santo Domingo</p>
-          <p className="text-xs mt-1">Hecho con <i className="fas fa-heart text-red-400"></i> para la investigación</p>
         </div>
       </div>
     </footer>
