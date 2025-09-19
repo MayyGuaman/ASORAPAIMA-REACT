@@ -49,7 +49,7 @@ const MembersPage = () => {
               Colaboradores
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Investigadores doctorales que contribuyen activamente al desarrollo del proyecto
+              Nuestro equipo de trabajo que contribuyen activamente al desarrollo del proyecto.
             </p>
           </div>
 
