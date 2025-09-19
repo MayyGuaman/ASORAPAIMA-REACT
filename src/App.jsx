@@ -31,7 +31,7 @@ const App = () => {
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-green-50 to-blue-50">
         <div className="text-center">
           <div className="w-16 h-16 bg-gradient-to-br from-yellow-400 to-yellow-500 rounded-xl flex items-center justify-center shadow-lg mb-4 mx-auto animate-pulse">
-            <i className="fas fa-leaf text-green-800 text-2xl"></i>
+            <i className="fas fa-fish text-green-800 text-2xl"></i>
           </div>
           <div className="text-2xl font-bold text-green-800">Asorapaima</div>
         </div>
