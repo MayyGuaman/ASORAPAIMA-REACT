@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-yellow-400 rounded-lg flex items-center justify-center">
-              <i className="fas fa-leaf text-green-800"></i>
+              <i className="fas fa-fish text-green-800"></i>
             </div>
             <h3 className="text-xl font-bold">Asorapaima</h3>
           </div>
